@@ -5,7 +5,7 @@ Desenvolvedor com 12 anos de estrada em PHP e JavaScript. Se tem uma coisa que e
 
 ### No meu kit de ferramentas 🛠️ / In My Toolbox 🛠️
 - **Back-end:** PHP (Laravel, Zend), Node.js(Express)
-- **Front-end:** JavaScript (React, Angular)
+- **Front-end:** JavaScript (React, Angular2+)
 - **Banco de Dados / Databases:** MySQL, SQL Server, MongoDB
 - **Cloud:** AWS
 
