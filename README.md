@@ -1,4 +1,4 @@
-# Olá, eu sou [Felipe Pessoa] 👋 / Hi, I'm [Felipe Pessoa] 👋
+# Olá, eu sou Felipe Pessoa 👋 / Hi, I'm Felipe Pessoa 👋
 
 ### Sobre Mim / About Me
 Desenvolvedor com 12 anos de estrada em PHP e JavaScript. Se tem uma coisa que eu amo é resolver problemas com código e criar soluções que realmente fazem a diferença. 🚀 / Developer with 12 years of experience in PHP and JavaScript. If there's one thing I love, it's solving problems with code and creating solutions that truly make a difference. 🚀
